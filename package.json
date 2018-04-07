@@ -4,7 +4,7 @@
   "description": "A simple deck-making tool for mtg",
   "main": "index.js",
   "scripts": {
-    "test": "test.js"
+    "test": "tape test.js"
   },
   "repository": {
     "type": "git",
