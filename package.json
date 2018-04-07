@@ -1,0 +1,29 @@
+{
+  "name": "deck-maker",
+  "version": "1.0.0",
+  "description": "A simple deck-making tool for mtg",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordScree/deck-maker.git"
+  },
+  "keywords": [
+    "mtg",
+    "magic",
+    "gathering",
+    "deck",
+    "construct",
+    "list",
+    "card",
+    "tcg"
+  ],
+  "author": "Oliver Clare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordScree/deck-maker/issues"
+  },
+  "homepage": "https://github.com/LordScree/deck-maker#readme"
+}
