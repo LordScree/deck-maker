@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/LordScree/deck-maker#readme",
   "dependencies": {
-    "mtgsdk": "^0.3.0"
+    "mtgsdk": "^0.3.0",
+    "tape": "^4.9.0"
   }
 }
