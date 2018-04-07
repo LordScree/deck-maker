@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/LordScree/deck-maker/issues"
   },
-  "homepage": "https://github.com/LordScree/deck-maker#readme"
+  "homepage": "https://github.com/LordScree/deck-maker#readme",
+  "dependencies": {
+    "mtgsdk": "^0.3.0"
+  }
 }
