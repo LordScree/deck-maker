@@ -15,7 +15,7 @@
             "env": {"NODE_ENV": "production"}
         },
         {
-            "name": "Run tape",
+            "name": "Run list-cards-test.js",
             "type": "node",
             "request": "launch",
             "program": "${workspaceFolder}\\test\\list-cards-test.js",
