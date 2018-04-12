@@ -18,9 +18,8 @@
             "name": "Run tape",
             "type": "node",
             "request": "launch",
-            "program": "${workspaceFolder}\\node_modules\\.bin\\tape",
+            "program": "${workspaceFolder}\\test\\list-cards-test.js",
             "stopOnEntry": false,
-            "args": ["test/*.js"],
             "runtimeExecutable": null,
             "env": {"NODE_ENV": "production"}
         }
